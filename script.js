@@ -6,7 +6,8 @@
 //    console.log("Не верно")
 //}
 
-let numm = 20;
+//let numm = 20;
+
 let nun = 9;
 
 switch (nun) {
@@ -33,4 +34,11 @@ if (run < 10) {
     console.log("Nice");
 } else {
     console.log("Not good");
+ }
+
+ let rum = 50;
+
+ while (rum < 55){
+    console.log(rum);
+    rum++;
  }
