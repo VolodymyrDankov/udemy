@@ -36,9 +36,10 @@ if (run < 10) {
     console.log("Not good");
  }
 
- let rum = 50;
+ let rum = 60 ;
 
- while (rum < 55){
-    console.log(rum);
-    rum++;
- }
+// while (rum < 65) {
+  //  console.log(rum);
+    //rum++;
+ // }
+ 
